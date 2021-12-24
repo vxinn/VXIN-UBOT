@@ -35,7 +35,7 @@ async def help(event):
             string += "`" + str(i)
             string += "`\t ❉  "
         await event.edit(
-            "**⚡𝐒𝐊𝐘𝐙𝐔-𝐔𝐒𝐄𝐑𝐁𝐎𝐓​⚡**\n\n"
+            "**⚡𝐕𝐗𝐈𝐍-𝐔𝐁𝐎𝐓⚡**\n\n"
             f"**◉ Bᴏᴛ ᴏꜰ {DEFAULTUSER}**\n**◉ Mᴏᴅᴜʟᴇꜱ : {len(modules)}**\n\n"
             "**• Mᴀɪɴ Mᴇɴᴜ :**\n"
             f"◉ {string}◉\n\n✐ **ɴᴏᴛᴇꜱ :**  `.help animasi`\n support : @skyzusupport"

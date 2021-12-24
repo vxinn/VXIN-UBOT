@@ -321,7 +321,7 @@ async def redis(alive):
         f"┃✧ **Bot Ver  :** {BOT_VER} \n"
         f"┃✧ **Modules  :** {len(modules)} Modules \n"
         f"┃✧ **GitHub   :** [UserBot](https://github.com/vxinn/VXIN-UBOT) \n"
-        f"┃✧ **Owner    :** [Skyzu](https://t.me/Vxinkalem) \n"
+        f"┃✧ **Owner    :** [vxin](https://t.me/Vxinkalem) \n"
         f"┃✧ **support  :** [groups](https://t.me/+qEBJKFLkgxc5ZGRl) \n"
         f"╰✠╼━━━━━━━━━━━━━━━━✠╯"
     )

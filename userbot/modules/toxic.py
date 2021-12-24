@@ -29,7 +29,7 @@ async def typewriter(typew):
 @register(outgoing=True, pattern="^I(?: |$)(.*)")
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("**KONTOL MASIH BENGKOK AJA BANGGA LU HAHAHAHA!!**")
+    await typew.edit("** SEKUTU BANYAK LACUR NYA KONTOL JELEK SEMUA LAGI ANJING!!**")
 
 
 @register(outgoing=True, pattern="^Q(?: |$)(.*)")
@@ -41,7 +41,7 @@ async def typewriter(typew):
 @register(outgoing=True, pattern="^R(?: |$)(.*)")
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("**KONTOL KONTOL APA YANG BESAR?KONTOL LU LAH HAHAHAHA!!**")
+    await typew.edit("**GC GC APA YANG KUTUAN?SEKUTU LAH KONTOL HAHAHAHA!!**")
 
 
 @register(outgoing=True, pattern="^T(?: |$)(.*)")

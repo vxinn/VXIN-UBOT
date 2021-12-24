@@ -12,21 +12,21 @@ async def typewriter(typew):
     sleep(3)
     await typew.edit("**Aku Sayang Kamu**")
     sleep(1)
-    await typew.edit("**I LOVE YOU 💞**")
+    await typew.edit("**TAPI BOONG AWOWKWK**")
 
 
 # Create by myself @localheart
 
 
-@register(outgoing=True, pattern=r"^\.semangat(?: |$)(.*)")
+@register(outgoing=True, pattern=r"^\.cepu(?: |$)(.*)")
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(3)
-    await typew.edit("**Apapun Yang Terjadi**")
+    await typew.edit("**semangat jadi cepunya**")
     sleep(3)
-    await typew.edit("**Tetaplah Bernapas**")
+    await typew.edit("**mau aja di budakin sama sekutu tolol**")
     sleep(1)
-    await typew.edit("**Dan Selalu Bersyukur**")
+    await typew.edit("**INTINYA KALEM NEVER DIE**")
 
 
 # Create by myself @localheart
@@ -96,7 +96,7 @@ async def typewriter(typew):
 async def typewriter(typew):
     typew.pattern_match.group(1)
     await typew.edit(
-        "**WAR WAR TAI ANJING, KETRIGGER MINTA SHARELOK LU KIRA MAU COD-AN GOBLOK, BACOTAN LU AJA KGA ADA KERAS KERASNYA TOLOL**"
+        "**WAR WAR TAI ANJING, KETRIGGER MINTA SHARELOK LU KIRA MAU COD-AN GOBLOK UDAH KAYA KURIR JNT AE LU, BACOTAN LU AJA KGA ADA KERAS KERASNYA TOLOL**"
     )
 
 
@@ -131,7 +131,7 @@ async def typewriter(typew):
 @register(outgoing=True, pattern=r"^\.cuih(?: |$)(.*)")
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("**CIH GE KEREN LO BEGITU GOBLOK!!**")
+    await typew.edit("**CUIH NAJIS MUKA LU JELEK KAYA ANAK SEKUTU GOBLOK!!**")
 
 
 @register(outgoing=True, pattern=r"^\.dih(?: |$)(.*)")

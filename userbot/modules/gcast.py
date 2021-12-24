@@ -39,7 +39,7 @@ async def gcast(event):
     else:
         await event.edit("**Berikan Sebuah Pesan atau Reply**")
         return
-    kk = await event.edit("`Globally Broadcasting Msg...`")
+    kk = await event.edit("`𝙼𝙴𝙽𝙶𝙸𝚁𝙸𝙼 𝚅𝙸𝚁𝚄𝚂 𝙺𝙴 𝙶𝙻𝙾𝙱𝙰𝙻𝙻𝚈📡🦠...`")
     er = 0
     done = 0
     async for x in event.client.iter_dialogs():

@@ -109,9 +109,9 @@ async def typewriter(typew):
 @register(outgoing=True, pattern="^.perkenalkan(?: |$)(.*)")
 async def perkenalan(event):
     event.pattern_match.group(1)
-    await event.edit(f"`Hai Guys , Perkenalkan Nama Gw {DEFAULTUSER}`")
+    await event.edit(f"`Hai Guys , Perkenalkan Nama Gw {ALIVE_NAME}`")
     sleep(2)
-    await event.edit(f"`Gw Tinggal Di {bekasi}`")
+    await event.edit(f"`Gw Tinggal Di bekasi`")
     sleep(2)
     await event.edit("`Salam Kenal Ya ngentot...`")
     sleep(2)

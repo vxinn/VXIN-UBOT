@@ -69,19 +69,19 @@ async def typewriter(typew):
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(1)
-    await typew.edit("**KONTOLL**")
+    await typew.edit("**SEKONTOL**")
     sleep(1.5)
-    await typew.edit("**LU ANAK KONTOLL**")
+    await typew.edit("**SEKUTU ANAK KONTOL**")
     sleep(1.5)
-    await typew.edit("**DI BIKIN DARI KONTOLL**")
+    await typew.edit("**MEMBER NYA SANGEAN**")
     sleep(1.5)
-    await typew.edit("**MUKALU PERSIS KONTOLL**")
+    await typew.edit("**MUKA ANAK SEKUTU PERSIS KAYA KONTOLL**")
     sleep(1.5)
     await typew.edit("**DASAR ANAK NGONTOLLLL**")
     sleep(1.5)
     await typew.edit("**NOLEP KONTOLL**")
     sleep(1.5)
-    await typew.edit("**NGERUSUH KONTOLL**")
+    await typew.edit("**JELEK LU KONTOLL**")
     sleep(1.5)
     await typew.edit("**BENER BENER KONTOLL**")
     sleep(1.5)
@@ -122,7 +122,7 @@ async def typewriter(typew):
 async def typewriter(typew):
     typew.pattern_match.group(1)
     await typew.edit(
-        "**LO KAN HASIL ZINAH HASIL HUB TERLARANG NAH LO DI BUANG DI TONGSAMPAH NAH MAK LO YG SKRG KASIAN SAMA LO MKNY DI PUNGUT UDH LO CACAT KAKI CACAT TANGAN CACAT MUKA CACAT SEMUAHNY PARAH BET SI KONTOL LO JUGA CACATAN PASTI NANAHAN JUGA,UDH MENDING LO BUNDIR DEH JADI BEBAN ORG DOANG BEGO NGERUGIN MASYARKAT BEGO BOCAH HINA BOCAH HARAM BOCAH AUTIS KEK LO MENDING MATI AJA**"
+        "**ANAK SEKUTU HASIL ZINAH HASIL HUB TERLARANG NAH LO DI BUANG DI TONGSAMPAH NAH MAK LO YG SKRG KASIAN SAMA LO MKNY DI PUNGUT UDH LO CACAT KAKI CACAT TANGAN CACAT MUKA CACAT SEMUAHNY PARAH BET SI KONTOL LO JUGA CACATAN PASTI NANAHAN JUGA,UDH MENDING LO BUNDIR DEH JADI BEBAN ORG DOANG BEGO NGERUGIN MASYARKAT BEGO BOCAH HINA BOCAH HARAM BOCAH AUTIS KEK LO MENDING MATI AJA**"
     )
 
 

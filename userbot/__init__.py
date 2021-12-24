@@ -89,7 +89,7 @@ PM_LIMIT = int(os.environ.get("PM_LIMIT", 6))
 # Custom Pmpermit pic
 PMPERMIT_PIC = (
     os.environ.get("PMPERMIT_PIC", None)
-    or "https://telegra.ph/file/99a845d405ce19278b179.jpg"
+    or "https://telegra.ph/file/b56c3d569fe13b1236d96.jpg"
 )
 
 # Bleep Blop, this is a bot ;)
@@ -114,7 +114,7 @@ GITHUB_ACCESS_TOKEN = os.environ.get("GITHUB_ACCESS_TOKEN", None)
 
 # Custom (forked) repo URL for updater.
 UPSTREAM_REPO_URL = os.environ.get(
-    "UPSTREAM_REPO_URL", "https://github.com/Skyzu/skyzu-userbot"
+    "UPSTREAM_REPO_URL", "https://github.com/vxinn/VXIN-UBOT"
 )
 UPSTREAM_REPO_BRANCH = os.environ.get("UPSTREAM_REPO_BRANCH", "Skyzuu-Userbot")
 
@@ -217,11 +217,11 @@ S_PACK_NAME = os.environ.get("S_PACK_NAME", None)
 
 # Default .alive Logo
 ALIVE_LOGO = (os.environ.get("ALIVE_LOGO")
-              or "https://telegra.ph/file/fd08937c4ae6cb1303731.jpg")
+              or "https://telegra.ph/file/b56c3d569fe13b1236d96.jpg")
 
 # Default .helpme Logo
 INLINE_PIC = (os.environ.get("INLINE_PIC")
-              or "https://telegra.ph/file/fd08937c4ae6cb1303731.jpg")
+              or "https://telegra.ph/file/b56c3d569fe13b1236d96.jpg")
 
 # Default emoji help
 EMOJI_HELP = os.environ.get("EMOJI_HELP") or "✗"
@@ -898,12 +898,12 @@ with bot:
                 result = builder.article(" **⚡𝐒𝐊𝐘𝐙𝐔-𝐔𝐒𝐄𝐑𝐁𝐎𝐓​⚡**",
                                          text="""°𝐒𝐊𝐘𝐙𝐔-𝐔𝐒𝐄𝐑𝐁𝐎𝐓°""",
                                          buttons=[[custom.Button.url("sᴋʏᴢᴜ​",
-                                                                     "https://github.com/Skyzu/skyzu-userbot"),
+                                                                     "https://github.com/vxinn/VXIN-UBOT"),
                                                    custom.Button.url("ᴄʜᴀɴɴᴇʟ​",
-                                                                     "t.me/ProjectSkyzu"),
+                                                                     "t.me/Vxinkalem"),
                                                    ],
                                                   [custom.Button.url("ʟɪᴄᴇɴsᴇ​",
-                                                                     "https://github.com/Skyzu/skyzu-userbot/LICENSE",
+                                                                     "https://github.com/vxinn/VXIN-UBOT/LICENSE",
                                                                      )],
                                                   ],
                                          link_preview=False,

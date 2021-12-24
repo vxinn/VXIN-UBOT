@@ -320,9 +320,9 @@ async def redis(alive):
         f"┃✧ **Branch   :** {UPSTREAM_REPO_BRANCH} \n"
         f"┃✧ **Bot Ver  :** {BOT_VER} \n"
         f"┃✧ **Modules  :** {len(modules)} Modules \n"
-        f"┃✧ **GitHub   :** [UserBot](https://github.com/Skyzu/skyzu-userbot) \n"
-        f"┃✧ **Owner    :** [Skyzu](https://t.me/skyzu) \n"
-        f"┃✧ **support  :** [groups](https://t.me/skyzusupport) \n"
+        f"┃✧ **GitHub   :** [UserBot](https://github.com/vxinn/VXIN-UBOT) \n"
+        f"┃✧ **Owner    :** [Skyzu](https://t.me/Vxinkalem) \n"
+        f"┃✧ **support  :** [groups](https://t.me/+qEBJKFLkgxc5ZGRl) \n"
         f"╰✠╼━━━━━━━━━━━━━━━━✠╯"
     )
     if ALIVE_LOGO:

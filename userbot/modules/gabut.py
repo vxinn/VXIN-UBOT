@@ -25,7 +25,7 @@ async def typewriter(typew):
     typew.pattern_match.group(1)
     await typew.edit("`Salam Dulu Biar Sopan...`")
     sleep(2)
-    await typew.edit("`السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ`")
+    await typew.edit("`samlekom kak ngewe yu`")
 
 
 # Salam
@@ -34,9 +34,9 @@ async def typewriter(typew):
 @register(outgoing=True, pattern="^.l(?: |$)(.*)")
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("`Kalo Orang Salam Itu Dijawab...`")
+    await typew.edit("`𝚆𝚊𝚊𝚕𝚊𝚒𝚔𝚞𝚖𝚜𝚊𝚕𝚊𝚖.`")
     sleep(2)
-    await typew.edit("`وَعَلَيْكُمْ السَّلاَمُ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ`")
+    await typew.edit("`kenapa mau ngewe?`")
 
 
 # Menjawab Salam

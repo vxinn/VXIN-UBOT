@@ -18,7 +18,7 @@ async def lastname(steal):
     user_id = message.sender.id
     id = f"/search_id {user_id}"
     if message.sender.bot:
-        await steal.edit("```Balas Ke Pesan Pengguna Yang Sebenarnya.```")
+        await steal.edit("```anjing lah gabisa di SA.```")
         return
     await steal.edit("```Lu siapa si bangsat, gua intip sabi laa..```")
     try:

@@ -21,7 +21,7 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else uname().node
 REPOLINK = (
     str(UPSTREAM_REPO_URL)
     if UPSTREAM_REPO_URL
-    else "https://github.com/Askarbot/Skyzuu-Userbot"
+    else "https://github.com/vxinn/VXIN-UBOT"
 )
 # ============================================
 
@@ -93,7 +93,7 @@ async def killdabot(event):
 async def reedme(e):
     await e.edit(
         "Here's Something for You to Read :\n"
-        "\n[⚡ Skyzu-UserBot Repo](https://github.com/Askarbot/Skyzuu-Userbot/blob/skyzu-userBot/README.md)"
+        "\n[⚡ VXIN-UBOT Repo](https://github.com/Askarbot/Skyzuu-Userbot/blob/skyzu-userBot/README.md)"
         "\n[Setup Guide - Basic](https://telegra.ph/How-to-host-a-Telegram-Userbot-11-02)"
         "\n[Special - Note](https://telegra.ph/Special-Note-11-02)"
     )
@@ -119,7 +119,7 @@ async def repo_is_here(wannasee):
     await wannasee.edit(
         "**Usᴇʀʙᴏᴛ Tᴇʟᴇɢʀᴀᴍ**\n"
         "𝗥𝗲𝗽𝗼 🇮🇩\n"
-        "╰⎆ [𝐕𝐗𝐈𝐍-𝐔𝐒𝐄𝐑𝐁𝐎𝐓](https://github.com/Skyzu/skyzu-userbot)\n"
+        "╰⎆ [𝐕𝐗𝐈𝐍-𝐔𝐒𝐄𝐑𝐁𝐎𝐓](https://github.com/vxinn/VXIN-UBOT)\n"
         "❏ **Oᴡɴᴇʀ​** ⎆ [𝚅𝚇𝙸𝙽](t.me/Vxinkalem)\n"
         "❏ **Sᴜᴘᴘᴏʀᴛ**​ ⎆ [groups](t.me/skyzusupport)\n"
     )

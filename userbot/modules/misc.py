@@ -119,8 +119,8 @@ async def repo_is_here(wannasee):
     await wannasee.edit(
         "**Usᴇʀʙᴏᴛ Tᴇʟᴇɢʀᴀᴍ**\n"
         "𝗥𝗲𝗽𝗼 🇮🇩\n"
-        "╰⎆ [𝐒𝐊𝐘𝐙𝐔-𝐔𝐒𝐄𝐑𝐁𝐎𝐓​](https://github.com/Skyzu/skyzu-userbot)\n"
-        "❏ **Oᴡɴᴇʀ​** ⎆ [Skyzu](t.me/skyzu)\n"
+        "╰⎆ [𝐕𝐗𝐈𝐍-𝐔𝐒𝐄𝐑𝐁𝐎𝐓](https://github.com/Skyzu/skyzu-userbot)\n"
+        "❏ **Oᴡɴᴇʀ​** ⎆ [𝚅𝚇𝙸𝙽](t.me/Vxinkalem)\n"
         "❏ **Sᴜᴘᴘᴏʀᴛ**​ ⎆ [groups](t.me/skyzusupport)\n"
     )
 

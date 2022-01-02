@@ -120,8 +120,8 @@ async def repo_is_here(wannasee):
         "**Usᴇʀʙᴏᴛ Tᴇʟᴇɢʀᴀᴍ**\n"
         "𝗥𝗲𝗽𝗼 🇮🇩\n"
         "╰⎆ [𝐕𝐗𝐈𝐍-𝐔𝐒𝐄𝐑𝐁𝐎𝐓](https://github.com/vxinn/VXIN-UBOT)\n"
-        "❏ **Oᴡɴᴇʀ​** ⎆ [𝚅𝚇𝙸𝙽](t.me/Vxinkalem)\n"
-        "❏ **Sᴜᴘᴘᴏʀᴛ**​ ⎆ [groups](t.me/skyzusupport)\n"
+        "☔ **Oᴡɴᴇʀ​** ⎆ [𝚅𝚇𝙸𝙽](t.me/Vxinkalem)\n"
+        "🪐 **Sᴜᴘᴘᴏʀᴛ**​ ⎆ [groups](t.me/skyzusupport)\n"
     )
 
 
